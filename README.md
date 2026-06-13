@@ -20,7 +20,7 @@
 
 ![Tools Screenshot](https://files.catbox.moe/tfks3p.jpg)
 
-**Video Demo:** [Klik disini](https://files.catbox.moe/lm9ju1.mp4)
+![Demo](https://files.catbox.moe/t0ow9t.gif)
 
 ---
 
